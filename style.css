@@ -1,0 +1,26 @@
+body
+{
+background-color:#E6DCE8;
+}
+h1
+{
+background-color:#00ff00;
+}
+
+body {background-color:#b0c4de;}
+
+img
+{
+float:right;
+}
+
+.nav{
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+
+
